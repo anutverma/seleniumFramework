@@ -1,0 +1,11 @@
+/target/
+.classpath
+.project
+.settings/
+phantomjsdriver.log
+.idea/
+newec.iml
+Remedy2Application.iml
+debug.log
+/bin/
+/.DS_Store
